@@ -1,3 +1,4 @@
+<h1>PROJECT 1</h1>
 <div align="center">
-    <h1>PERSONAL BANKING SYSTEM</h1><br>
+    <h2>PERSONAL BANKING SYSTEM</h2><br>
 </div>
